@@ -1,4 +1,4 @@
 # PracticesJavascript
 Repository dedicated to exercises and practices in the javascript language.
 
-![js](D:\PracticesJavascript\js_image.jpg)
+![js](https://github.com/viniciuskurt/PracticesJavascript/blob/main/js_image.jpg)
